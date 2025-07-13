@@ -46,6 +46,7 @@ function Home() {
       </section>
       <Contact contactSection={contactSection} />
       <Footer />
+      {/* test */}
     </>
   )
 }
